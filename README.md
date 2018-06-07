@@ -4,7 +4,7 @@
 语言 js
 
 git
-入门
+入门   http://www.runoob.com/w3cnote/git-guide.html
 
 使用Git前，需要先建立一个仓库(repository)。您可以使用一个已经存在的目录作为Git仓库或创建一个空目录。
 使用您当前目录作为Git仓库，我们只需使它初始化。
